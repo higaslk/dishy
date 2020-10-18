@@ -1,0 +1,28 @@
+{
+  "name": "Dishy",
+  "version": "0.0.1",
+  "description": "a simple discord api with embedded database",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository":{
+    "type": "git",
+    "url": "git+https://github.com/Higamers/dishy"
+  },
+  "dependencies": {
+    "ws": "^7.3.1"
+  },
+  "keywords":[
+    "discord",
+    "bot",
+    "bot database",
+    "discord api"
+  ],
+  "author": "Higamers",
+  "license": "MIT",
+  "engines": {
+    "node": "12.x"
+  },
+  "homepage":"https://github.com/Higamers/dishy"
+}
