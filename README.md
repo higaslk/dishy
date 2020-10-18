@@ -6,7 +6,8 @@ Npm is in development and only the examples below are functional
 npm i dishy
 ```
 # Example usage
-```const dishy = require("dishy")
+```javascript
+const dishy = require("dishy")
 const client = new client("TOKEN")
 ```
 #
