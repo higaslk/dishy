@@ -8,7 +8,7 @@ npm i dishy
 # Example usage
 ```javascript
 const dishy = require("dishy")
-const client = new client("TOKEN")
+const client = new dishy.client("TOKEN")
 ```
 #
 Remembering that the api is under development.
