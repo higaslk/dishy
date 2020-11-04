@@ -1,14 +1,10 @@
-# Dishy
-Dishy is a discord api for creating bots with embedded database. 
-Npm is in development and only the examples below are functional
-# installation 
-```
-npm i dishy
-```
-# Example usage
+# Login example with the discord API
+dishy is a discontinued open source npm project.
+The purpose of the package was to be a login npm with the discord API with embedded database.
+Use the code to log in with the Discord API.
+# Example
 ```javascript
-const dishy = require("dishy")
-const client = new dishy.client("TOKEN")
+const dishy = require(__dirname + "/src/client.js")
+const client = new dishy.client("your bot token HERE")
 ```
-#
-Remembering that the api is under development.
+After that the bot will go online!
