@@ -8,18 +8,15 @@
   },
   "repository":{
     "type": "git",
-    "url": "git+https://github.com/Higamers/dishy"
+    "url": "your repository here"
   },
   "dependencies": {
     "ws": "^7.3.1"
   },
   "keywords":[
-    "discord",
-    "bot",
-    "bot database",
-    "discord api"
+   "Put keywords"
   ],
-  "author": "Higamers",
+  "author": "Your npm account name",
   "license": "MIT",
   "engines": {
     "node": "12.x"
